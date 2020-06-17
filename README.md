@@ -1,7 +1,10 @@
+
+This is the GitHub repository for the Portland C++ User's Group (PDXCPP)!
+
+https://www.meetup.com/pdxcpp/
+
 Presentations
 -------------
-
-This is a place to put slides and related materials from PDXCPP presentations.
 
 All items in this repository are copyright their respective creators and you'll need
 to ask permission to make use of them. No permission is required to make use of the
